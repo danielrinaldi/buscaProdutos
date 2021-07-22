@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(242, 255, 167);
+    background-color: rgb(0, 0, 0);
 
 }
 section{
-    background-color: rgb(196, 255, 235);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     padding: 15px;
     width: 500px;
@@ -14,5 +14,7 @@ section{
 }
 h1{
     text-align: center;
+    font-size: comic 20px ;
+    color: white;
     
 }
