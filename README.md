@@ -1,2 +1,2 @@
 # buscaProdutos
-buscar cadastro de produtos
+Consite em realizar uma busca atravez de codigos para localizar o item e retornar suas caracteristicas
